@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="toolbar_menu">Toolbar menu</string>
+    <string name="option_menu">Option Menu</string>
+    <string name="green">Green</string>
+    <string name="menu_action_colors">menu_action_colors</string>
+    <string name="menu_action_red">menu_action_red</string>
+    <string name="menu_action_green">menu_action_green</string>
+    <string name="menu_action_blue">menu_action_blue</string>
+    <string name="colors">colors</string>
+    <string name="red">red</string>
+    <string name="green_">green</string>
+    <string name="blue">blue</string>
+</resources>
